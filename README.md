@@ -19,3 +19,8 @@ docker run -p 8888:8888 -v ~/Documents/my_dev/jupiter/notebooks:/notebooks -d my
 ```
 docker rmi myjupiter -f
 ```
+
+
+## License
+
+[MIT](https://tldrlegal.com/license/mit-license) © [Vadym Yatsyuk](https://github.com/vadimdez)
